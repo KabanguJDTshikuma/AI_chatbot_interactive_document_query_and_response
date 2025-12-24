@@ -13,7 +13,7 @@ Chatbots are software applications designed to engage in human-like conversation
 
 ### LangChain
 LangChain is a versatile tool for building AI-driven language applications. It provides various functionalities such as text retrieval, summarization, translation, and many more, by leveraging pretrained language models. In this project, you will be integrating LangChain into your chatbot, empowering it to understand and respond to diverse user inputs effectively.
-![LangChain](https://github.com/KabanguJDTshikuma/AI_chatbot_interactive_document_query_and_response/tree/main/static/procedure_of_document processing_and_information_retrieval)
+![LangChain](https://github.com/KabanguJDTshikuma/AI_chatbot_interactive_document_query_and_response/blob/main/static/procedure_of_document%20processing_and_information_retrieval.png)
 
 ### Flask
 Flask is a lightweight and flexible web framework for Python, known for its simplicity and speed. A web framework is a software framework designed to support the development of web applications, including the creation of web servers, and management of HTTP requests and responses.
